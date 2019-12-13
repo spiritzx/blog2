@@ -15,7 +15,8 @@
 3. [创建 BFC](./browser/html/1904/190402.md)
 4. [两列布局：一列固定宽，一列自适应](./browser/html/1905/190501.md)
 5. [如何让 HTML 识别 string 里的 '\n' 并成功换行？](./browser/html/1906/190601.md)
-6. [父元素根据子元素来撑起宽度](./browser/html/1906/190701.md)
+6. [父元素根据子元素来撑起宽度](./browser/html/1907/190701.md)
+7. [网页全局变灰](./browser/html/1912/191201.md)
 
 #### 3,javaScript
 1. [点击查看详情](./browser/javaScript/js_readme.md)
