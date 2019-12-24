@@ -125,16 +125,12 @@
 ------
 ## 六，其他
 ### git
-##### 基础
 1. [常用操作命令](./other/git/1806/00.md)
 2. [git分支管理-branth](./other/git/1806/01.md)
 3. [git 问题解决](./other/git/1806/02.md)
 4. [git 与 github 工作流](./other/git/1806/03.md)
+5. [github 不更新你的提交记录](./other/git/1912/191201.md)
 
-##### 需求
-1. [常用分支管理](./other/git/demand/1806/01.md)
-2. [pull和merge遇到的问题](./other/git/demand/1806/02.md)
-3. [git和GitHub工作流](./other/git/demand/1806/03.md)
 
 ### 博客版本
 1. [博客版本v0.0.1](./other/blog_record/1811/181000.md)
