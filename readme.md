@@ -158,14 +158,16 @@
 1. [前端一点小想法](./other/thinking/1812/01.md)
 1. [软件开发的三大原则](./other/thinking/1912/191201.md)
 
-### 4. 读书笔记
-1. [javaScript高级程序设计（第三版）笔记 - 01](./other/notes/javaScriptGJCXSJ/190201.md)
-2. [javaScript高级程序设计（第三版）笔记 - 02](./other/notes/javaScriptGJCXSJ/190202.md)
-3. [javaScript高级程序设计（第三版）笔记 - 03](./other/notes/javaScriptGJCXSJ/190203.md)
-4. [javaScript高级程序设计（第三版）笔记 - 04](./other/notes/javaScriptGJCXSJ/190301.md)
-5. [javaScript高级程序设计（第三版）笔记 - 05](./other/notes/javaScriptGJCXSJ/190302.md)
-6. [javaScript高级程序设计（第三版）笔记 - 06](./other/notes/javaScriptGJCXSJ/190303.md)
+### 4. 阅读
+1. [javaScript高级程序设计（第三版）笔记 - 01](./other/read/javaScriptGJCXSJ/190201.md)
+2. [javaScript高级程序设计（第三版）笔记 - 02](./other/read/javaScriptGJCXSJ/190202.md)
+3. [javaScript高级程序设计（第三版）笔记 - 03](./other/read/javaScriptGJCXSJ/190203.md)
+4. [javaScript高级程序设计（第三版）笔记 - 04](./other/read/javaScriptGJCXSJ/190301.md)
+5. [javaScript高级程序设计（第三版）笔记 - 05](./other/read/javaScriptGJCXSJ/190302.md)
+6. [javaScript高级程序设计（第三版）笔记 - 06](./other/read/javaScriptGJCXSJ/190303.md)
+7. [《你不知道的JavaScript(上卷)》-1](./other/read/1811/01.md)
 
 ### 5. 常用工具软件及网站
 1. [工作学习常用工具及网站](./other/tool/190401.md)
 2. [vscode 常用插件](./other/tool/190601.md)
+3. [md 表格语法和生成目录](./other/tool/191201.md)
