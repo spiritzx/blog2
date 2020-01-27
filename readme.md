@@ -52,6 +52,7 @@
 3. [nginx开启关闭以及重启2](./server/nginx/1811/01.md)
 4. [nginx 开启 GZIP](./server/nginx/1904/190401.md)
 5. [bug: nginx 转发不了文件](./server/nginx/2001/200101.md)
+6. [nginx 转发静态文件以及转发请求](./server/nginx/2001/200102.md)
 
 ### node
 1. [express前言](./server/node/1806/00.md)
