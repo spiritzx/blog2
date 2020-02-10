@@ -43,6 +43,7 @@
 
 #### 8,SVG
 1. [SVG 初探](./browser/Svg/2001/200101.md)
+2. [SVG:viewBox](./browser/Svg/2002/200201.md)
 
 ------
 
@@ -107,7 +108,7 @@
 2. [vue测试](./program/test/1807/02.md)
 
 ### 数据结构与算法
-1. [点击查看详情](./program/algorithm/algorithm_reade.md)
+1. [点击查看详情](./program/algorithm/algorithm_readme.md)
 
 ### 面向对象
 1. [js面向对象初接触(1)](./program/js_oop/1812/01.md)
@@ -150,6 +151,7 @@
 9. [博客版本v0.0.9](./other/blog_record/1904/190403.md)
 10. [博客版本v1.1.0](./other/blog_record/1905/190501.md)
 11. [博客版本v1.1.1](./other/blog_record/1905/190502.md)
+12. [博客版本v1.1.2](./other/blog_record/2002/200201.md)
 
 ### webpack
 1. [webpack4（1）](./other/webpack/1812/01.md)
