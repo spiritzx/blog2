@@ -152,6 +152,7 @@
 10. [博客版本v1.1.0](./other/blog_record/1905/190501.md)
 11. [博客版本v1.1.1](./other/blog_record/1905/190502.md)
 12. [博客版本v1.1.2](./other/blog_record/2002/200201.md)
+13. [博客版本v1.1.3](./other/blog_record/2002/200202.md)
 
 ### webpack
 1. [webpack4（1）](./other/webpack/1812/01.md)
