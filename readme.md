@@ -46,6 +46,7 @@
 2. [SVG:viewBox](./browser/Svg/2002/200201.md)
 3. [SVG:基本图形绘制](./browser/Svg/2002/200202.md)
 4. [SVG:分组, 定义和复用](./browser/Svg/2002/200203.md)
+5. [SVG:path](./browser/Svg/2002/200204.md)
 
 ------
 
