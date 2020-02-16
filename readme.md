@@ -165,6 +165,7 @@
 5. [eslint 配置](./other/webpack/1812/05.md)
 6. [简单将 webpack 进行分环境运行与打包](./other/webpack/1905/190501.md)
 7. [webpack 发布 npm 插件](./other/webpack/1905/190502.md)
+8. [npm 于 cnpm 对于打包的影响](./other/webpack/1905/190502.md)
 
 ### 3. 思维
 1. [前端一点小想法](./other/thinking/1812/01.md)
