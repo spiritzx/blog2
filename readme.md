@@ -50,47 +50,50 @@
 
 ------
 
-## 二，后端
+## 二，全栈
 ### nginx
-1. [nginx开启关闭以及重启](./server/nginx/1806/01.md)
-2. [nginx.conf详解](./server/nginx/1806/02.md)
-3. [nginx开启关闭以及重启2](./server/nginx/1811/01.md)
-4. [nginx 开启 GZIP](./server/nginx/1904/190401.md)
-5. [bug: nginx 转发不了文件](./server/nginx/2001/200101.md)
-6. [nginx 转发静态文件以及转发请求](./server/nginx/2001/200102.md)
+1. [nginx开启关闭以及重启](./FullStack/nginx/1806/01.md)
+2. [nginx.conf详解](./FullStack/nginx/1806/02.md)
+3. [nginx开启关闭以及重启2](./FullStack/nginx/1811/01.md)
+4. [nginx 开启 GZIP](./FullStack/nginx/1904/190401.md)
+5. [bug: nginx 转发不了文件](./FullStack/nginx/2001/200101.md)
+6. [nginx 转发静态文件以及转发请求](./FullStack/nginx/2001/200102.md)
 
 ### node
-1. [express前言](./server/node/1806/00.md)
-2. [express快速构建项目](./server/node/1806/01.md)
-3. [rom工具Sequelize之一连接mysql数据库](./server/node/1806/02.md)
-4. [Sequelize之二定义数据表模型](./server/node/1806/03.md)
-5. [node-常用模块](./server/node/1807/00.md)
-6. [node-http](./server/node/1807/01.md)
-7. [node-fs](./server/node/1807/02.md)
-8. [express: cookie和session](./server/node/1807/180701.md)
-9. [koa2 开发开源博客（1）](./server/node/1812/01.md)
-10. [express 设置缓存](./server/node/1904/190401.md)
+1. [express前言](./FullStack/node/1806/00.md)
+2. [express快速构建项目](./FullStack/node/1806/01.md)
+3. [rom工具Sequelize之一连接mysql数据库](./FullStack/node/1806/02.md)
+4. [Sequelize之二定义数据表模型](./FullStack/node/1806/03.md)
+5. [node-常用模块](./FullStack/node/1807/00.md)
+6. [node-http](./FullStack/node/1807/01.md)
+7. [node-fs](./FullStack/node/1807/02.md)
+8. [express: cookie和session](./FullStack/node/1807/180701.md)
+9. [koa2 开发开源博客（1）](./FullStack/node/1812/01.md)
+10. [express 设置缓存](./FullStack/node/1904/190401.md)
 
 ### linux
-1. [linux 服务管理](./server/linux/1807/01.md)
-2. [linux 进程管理管理](./server/linux/1807/02.md)
-3. [Linux基本命令-01](./server/linux/1807/03.md)
-4. [vm虚拟机安装Linux-centOS7无法上网](./server/linux/1807/04.md)
-5. [Linux-centOS7安装ifconfig](./server/linux/1807/05.md)
-6. [笔记本用u盘装centos](./server/linux/1905/190501.md)
-7. [Linux基本命令-02](./server/linux/1905/190502.md)
-8. [centOS7 安装 nginx](./server/linux/1906/190601.md)
-9. [centOS7 安装 mysql](./server/linux/1906/190602.md)
+1. [linux 服务管理](./FullStack/linux/1807/01.md)
+2. [linux 进程管理管理](./FullStack/linux/1807/02.md)
+3. [Linux基本命令-01](./FullStack/linux/1807/03.md)
+4. [vm虚拟机安装Linux-centOS7无法上网](./FullStack/linux/1807/04.md)
+5. [Linux-centOS7安装ifconfig](./FullStack/linux/1807/05.md)
+6. [笔记本用u盘装centos](./FullStack/linux/1905/190501.md)
+7. [Linux基本命令-02](./FullStack/linux/1905/190502.md)
+8. [centOS7 安装 nginx](./FullStack/linux/1906/190601.md)
+9. [centOS7 安装 mysql](./FullStack/linux/1906/190602.md)
 
 ### http
-1. [服务器常用网络端口](./server/http/1807/180701.md)
-2. [一个mvc服务器浏览器网络请求简要过程](./server/http/1807/180702.md)
-3. [HTTP 状态码](./server/http/1904/190401.md)
-4. [TCP连接与关闭](./server/http/1904/190402.md)
-5. [Web安全之 SQL 注入攻击](./server/http/1904/190403.md)
-6. [Web安全之 CSRF 攻击](./server/http/1904/190404.md)
-7. [Web安全之 xss 攻击](./server/http/1904/190405.md)
-8. [Web安全之越权操作](./server/http/1904/190406.md)
+1. [服务器常用网络端口](./FullStack/http/1807/180701.md)
+2. [一个mvc服务器浏览器网络请求简要过程](./FullStack/http/1807/180702.md)
+3. [HTTP 状态码](./FullStack/http/1904/190401.md)
+4. [TCP连接与关闭](./FullStack/http/1904/190402.md)
+5. [Web安全之 SQL 注入攻击](./FullStack/http/1904/190403.md)
+6. [Web安全之 CSRF 攻击](./FullStack/http/1904/190404.md)
+7. [Web安全之 xss 攻击](./FullStack/http/1904/190405.md)
+8. [Web安全之越权操作](./FullStack/http/1904/190406.md)
+
+### electron
+1. [electron 打包全记录](./FullStack/electron/2002/200201.md)
 
 ------
 ## 三，微信
