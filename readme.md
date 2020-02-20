@@ -48,6 +48,7 @@
 4. [SVG:分组, 定义和复用](./browser/Svg/2002/200203.md)
 5. [SVG:path](./browser/Svg/2002/200204.md)
 6. [SVG: 轨迹动画和字体笔迹动画](./browser/Svg/2002/200205.md)
+6. [如何把复杂的图片转化为 svg](./browser/Svg/2002/200206.md)
 
 ------
 
