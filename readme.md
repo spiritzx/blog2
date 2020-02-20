@@ -52,7 +52,12 @@
 
 ------
 
-## 二，全栈
+## 二，数据可视化
+### d3
+1. [初识d3](./dataVisualization/d3/2002/200201.md)
+------
+
+## 三，全栈
 ### nginx
 1. [nginx开启关闭以及重启](./FullStack/nginx/1806/01.md)
 2. [nginx.conf详解](./FullStack/nginx/1806/02.md)
@@ -98,7 +103,7 @@
 1. [electron 打包全记录](./FullStack/electron/2002/200201.md)
 
 ------
-## 三，微信
+## 四，微信
 ### 微信小程序
 1. [小程序原生组件z-index](./weixin/miniprogram/1806/01.md)
 2. [实现遮罩层下底层不滚动](./weixin/miniprogram/1806/02.md)
