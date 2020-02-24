@@ -55,6 +55,7 @@
 ## 二，数据可视化
 ### d3
 1. [初识d3](./dataVisualization/d3/2002/200201.md)
+2. [初识d3](./dataVisualization/d3/2002/200201.md)
 ------
 
 ## 三，全栈
