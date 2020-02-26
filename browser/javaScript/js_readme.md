@@ -1,3 +1,10 @@
+<!--
+ * @Descripttion: js 文章列表
+ * @Author: tom-z(spirit108@foxmail.com)
+ * @Date: 2019-12-06 08:47:59
+ * @LastEditors: tom-z(spirit108@foxmail.com)
+ * @LastEditTime: 2020-02-26 13:52:53
+ -->
 # javascript
 1. [freecodecamp基础算法题-个人向（1）](./1811/01.md)
 2. [freecodecamp基础算法题-个人向（2）](./1811/02.md)
@@ -28,3 +35,4 @@
 27. [限制输入框只能整数或者保留一位小数的数字](./1910/191001.md)
 28. [前端埋点发送请求](./1912/191201.md)
 29. [es6 Class 中的 static](./1912/191202.md)
+30. [浏览器端 WebSocket](./2002/200201.md)
