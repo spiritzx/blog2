@@ -107,6 +107,8 @@
 3. [electron 一些小需求](./FullStack/electron/2002/200203.md)
 4. [electron：BrowserWindow 的配置选项](./FullStack/electron/2002/200204.md)
 5. [electron: 优雅的显示窗口](./FullStack/electron/2002/200205.md)
+6. [Electron 的进程](./FullStack/electron/2002/200206.md)
+7. [Electron 的进程之间的交流](./FullStack/electron/2002/200207.md)
 
 ------
 ## 四，微信
