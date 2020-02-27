@@ -55,8 +55,9 @@
 ## 二，数据可视化
 ### d3
 1. [初识d3](./dataVisualization/d3/2002/200201.md)
-2. [D3 选择,查看,设定和操作元素](./dataVisualization/d3/2002/200201.md)
-3. [d3 的数据绑定](./dataVisualization/d3/2002/200201.md)
+2. [D3 选择,查看,设定和操作元素](./dataVisualization/d3/2002/200202.md)
+3. [d3 的数据绑定](./dataVisualization/d3/2002/200203.md)
+4. [d3 操作 svg 画柱状图](./dataVisualization/d3/2002/200204.md)
 ------
 
 ## 三，全栈
