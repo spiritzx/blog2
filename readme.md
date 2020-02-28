@@ -58,6 +58,9 @@
 2. [D3 选择,查看,设定和操作元素](./dataVisualization/d3/2002/200202.md)
 3. [d3 的数据绑定](./dataVisualization/d3/2002/200203.md)
 4. [d3 操作 svg 画柱状图](./dataVisualization/d3/2002/200204.md)
+
+### echarts
+1. [echarts 图表的提示框](./dataVisualization/echarts/2002/200201.md)
 ------
 
 ## 三，全栈
@@ -69,11 +72,11 @@
 5. [bug: nginx 转发不了文件](./FullStack/nginx/2001/200101.md)
 6. [nginx 转发静态文件以及转发请求](./FullStack/nginx/2001/200102.md)
 
-### node
+### nodeJS
 1. [express前言](./FullStack/node/1806/00.md)
 2. [express快速构建项目](./FullStack/node/1806/01.md)
-3. [rom工具Sequelize之一连接mysql数据库](./FullStack/node/1806/02.md)
-4. [Sequelize之二定义数据表模型](./FullStack/node/1806/03.md)
+3. [rom工具(Sequelize):连接mysql数据库](./FullStack/node/1806/02.md)
+4. [rom工具(Sequelize):定义数据表模型](./FullStack/node/1806/03.md)
 5. [node-常用模块](./FullStack/node/1807/00.md)
 6. [node-http](./FullStack/node/1807/01.md)
 7. [node-fs](./FullStack/node/1807/02.md)
