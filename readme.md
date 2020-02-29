@@ -61,6 +61,7 @@
 
 ### echarts
 1. [echarts 图表的提示框](./dataVisualization/echarts/2002/200201.md)
+2. [echarts 可以按需引入的组件](./dataVisualization/echarts/2002/200202.md)
 ------
 
 ## 三，全栈
