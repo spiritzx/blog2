@@ -58,6 +58,7 @@
 2. [D3 选择,查看,设定和操作元素](./dataVisualization/d3/2002/200202.md)
 3. [d3 的数据绑定](./dataVisualization/d3/2002/200203.md)
 4. [d3 操作 svg 画柱状图](./dataVisualization/d3/2002/200204.md)
+5. [d3.timeFormat 时间格式化](./dataVisualization/d3/2003/200301.md)
 
 ### echarts
 1. [echarts 图表的提示框](./dataVisualization/echarts/2002/200201.md)
