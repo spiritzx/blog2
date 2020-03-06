@@ -120,7 +120,7 @@
 5. [electron: 优雅的显示窗口](./FullStack/electron/2002/200205.md)
 6. [Electron 的进程](./FullStack/electron/2002/200206.md)
 7. [Electron 的进程之间的交流](./FullStack/electron/2002/200207.md)
-7. [electron 在 vue-cli 4 中配置打包选项](./FullStack/electron/2002/200301.md)
+7. [electron 在 vue-cli 4 中配置打包选项](./FullStack/electron/2003/200301.md)
 
 ------
 ## 四，微信
