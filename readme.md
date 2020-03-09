@@ -166,6 +166,7 @@
 2. [typeScript的特性](./program/typeScript/1905/190501.md)
 3. [typeScript 对象属性强定义](./program/typeScript/1905/190502.md)
 4. [三步 typeScript 开发 html](./program/typeScript/2003/200301.md)
+5. [安装完typescript执行 tsc --init 报错](./program/typeScript/2003/200302.md)
 
 ------
 ## 六，其他
