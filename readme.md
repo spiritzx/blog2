@@ -169,6 +169,7 @@
 5. [安装完typescript执行 tsc --init 报错](./program/typeScript/2003/200302.md)
 6. [typescript 使用 js 的数据类型](./program/typeScript/2003/200303.md)
 7. [typescript 定义接口](./program/typeScript/2003/200304.md)
+8. [typescript 定义类(1)](./program/typeScript/2003/200305.md)
 
 ------
 ## 六，其他
