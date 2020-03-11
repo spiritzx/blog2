@@ -59,7 +59,8 @@
 3. [d3 的数据绑定](./dataVisualization/d3/2002/200203.md)
 4. [d3 操作 svg 画柱状图](./dataVisualization/d3/2002/200204.md)
 5. [d3.timeFormat 时间格式化](./dataVisualization/d3/2003/200301.md)
-6. [d3 几种常见的坐标轴](./dataVisualization/d3/2003/200301.md)
+6. [d3 几种常见的坐标轴](./dataVisualization/d3/2003/200302.md)
+7. [d3 画完整柱状图](./dataVisualization/d3/2003/200303.md)
 
 ### echarts
 1. [echarts 图表的提示框](./dataVisualization/echarts/2002/200201.md)
@@ -92,7 +93,7 @@
 10. [express 设置缓存](./FullStack/node/1904/190401.md)
 11. [四步开始 koa + typescript](./FullStack/node/2003/200301.md)
 12. [shelljs 简介](./FullStack/node/2003/200302.md)
-12. [cross-env 简介](./FullStack/node/2003/200302.md)
+13. [cross-env 简介](./FullStack/node/2003/200302.md)
 
 ### linux
 1. [linux 服务管理](./FullStack/linux/1807/01.md)
@@ -123,7 +124,7 @@
 5. [electron: 优雅的显示窗口](./FullStack/electron/2002/200205.md)
 6. [Electron 的进程](./FullStack/electron/2002/200206.md)
 7. [Electron 的进程之间的交流](./FullStack/electron/2002/200207.md)
-7. [electron 在 vue-cli 4 中配置打包选项](./FullStack/electron/2003/200301.md)
+8. [electron 在 vue-cli 4 中配置打包选项](./FullStack/electron/2003/200301.md)
 
 ------
 ## 四，微信
