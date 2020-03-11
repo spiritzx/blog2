@@ -61,6 +61,7 @@
 5. [d3.timeFormat 时间格式化](./dataVisualization/d3/2003/200301.md)
 6. [d3 几种常见的坐标轴](./dataVisualization/d3/2003/200302.md)
 7. [d3 画完整柱状图](./dataVisualization/d3/2003/200303.md)
+8. [d3 画散点图](./dataVisualization/d3/2003/200304.md)
 
 ### echarts
 1. [echarts 图表的提示框](./dataVisualization/echarts/2002/200201.md)
