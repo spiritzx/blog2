@@ -168,6 +168,7 @@
 4. [三步 typeScript 开发 html](./program/typeScript/2003/200301.md)
 5. [安装完typescript执行 tsc --init 报错](./program/typeScript/2003/200302.md)
 6. [typescript 使用 js 的数据类型](./program/typeScript/2003/200303.md)
+6. [typescript 使用泛型](./program/typeScript/2003/200304.md)
 
 ------
 ## 六，其他
