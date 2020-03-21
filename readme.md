@@ -59,7 +59,9 @@
 3. [d3 的数据绑定](./dataVisualization/d3/2002/200203.md)
 4. [d3 操作 svg 画柱状图](./dataVisualization/d3/2002/200204.md)
 5. [d3.timeFormat 时间格式化](./dataVisualization/d3/2003/200301.md)
-6. [d3 几种常见的坐标轴](./dataVisualization/d3/2003/200301.md)
+6. [d3 几种常见的坐标轴](./dataVisualization/d3/2003/200302.md)
+7. [d3 画完整柱状图](./dataVisualization/d3/2003/200303.md)
+8. [d3 画散点图](./dataVisualization/d3/2003/200304.md)
 
 ### echarts
 1. [echarts 图表的提示框](./dataVisualization/echarts/2002/200201.md)
@@ -92,7 +94,7 @@
 10. [express 设置缓存](./FullStack/node/1904/190401.md)
 11. [四步开始 koa + typescript](./FullStack/node/2003/200301.md)
 12. [shelljs 简介](./FullStack/node/2003/200302.md)
-12. [cross-env 简介](./FullStack/node/2003/200302.md)
+13. [cross-env 简介](./FullStack/node/2003/200302.md)
 
 ### linux
 1. [linux 服务管理](./FullStack/linux/1807/01.md)
@@ -123,7 +125,7 @@
 5. [electron: 优雅的显示窗口](./FullStack/electron/2002/200205.md)
 6. [Electron 的进程](./FullStack/electron/2002/200206.md)
 7. [Electron 的进程之间的交流](./FullStack/electron/2002/200207.md)
-7. [electron 在 vue-cli 4 中配置打包选项](./FullStack/electron/2003/200301.md)
+8. [electron 在 vue-cli 4 中配置打包选项](./FullStack/electron/2003/200301.md)
 
 ------
 ## 四，微信
@@ -168,7 +170,9 @@
 4. [三步 typeScript 开发 html](./program/typeScript/2003/200301.md)
 5. [安装完typescript执行 tsc --init 报错](./program/typeScript/2003/200302.md)
 6. [typescript 使用 js 的数据类型](./program/typeScript/2003/200303.md)
-6. [typescript 使用泛型](./program/typeScript/2003/200304.md)
+7. [typescript 定义接口](./program/typeScript/2003/200304.md)
+8. [typescript 定义类(1)](./program/typeScript/2003/200305.md)
+9. [typescript 使用泛型](./program/typeScript/2003/200306.md)
 
 ------
 ## 六，其他
