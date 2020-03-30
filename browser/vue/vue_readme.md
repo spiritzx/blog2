@@ -1,10 +1,4 @@
-<!--
- * @Descripttion: 
- * @Author: tom-z(spirit108@foxmail.com)
- * @Date: 2020-01-01 23:27:19
- * @LastEditors: tom-z(spirit108@foxmail.com)
- * @LastEditTime: 2020-03-10 11:56:24
- -->
+
 # vue
 1. [vue之子组件向父组件传递事件和值](./1806/180601.md)
 2. [vue-cli3实现分环境运行和打包](./1903/190301.md)
@@ -37,3 +31,4 @@
 29. [mixins](./1912/191204.md)
 30. [vue-cli4 懒加载无法使用 import ](./2002/200201.md)
 31. [vue 组件点击失效](./2003/200301.md)
+32. [vue 监听对象指定属性](./2003/200302.md)
