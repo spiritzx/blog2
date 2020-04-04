@@ -177,6 +177,7 @@
 7. [typescript 定义接口](./program/typeScript/2003/200304.md)
 8. [typescript 定义类(1)](./program/typeScript/2003/200305.md)
 9. [typescript 使用泛型](./program/typeScript/2003/200306.md)
+10. [typescript 定义类(2)](./program/typeScript/2004/200401.md)
 
 ------
 ## 六，其他
