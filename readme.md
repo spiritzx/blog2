@@ -180,7 +180,8 @@
 9. [typescript 使用泛型](./program/typeScript/2003/200306.md)
 10. [typescript 定义类(2)](./program/typeScript/2004/200401.md)
 11. [ts 枚举](./program/typeScript/2004/200402.md)
-11. [ts 装饰器](./program/typeScript/2004/200403.md)
+12. [ts 装饰器](./program/typeScript/2004/200403.md)
+13. [typescript 使用中括号获取对象的属性和方法](./program/typeScript/2004/200404.md)
 
 ------
 ## 六，其他
