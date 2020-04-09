@@ -186,14 +186,14 @@
 
 ------
 ## 六，其他
-### git
+### 1. git
 1. [常用操作命令](./other/git/1806/00.md)
 2. [git分支管理-branth](./other/git/1806/01.md)
 3. [git 问题解决](./other/git/1806/02.md)
 4. [git 与 github 工作流](./other/git/1806/03.md)
 5. [github 不更新你的提交记录](./other/git/1912/191201.md)
 
-### 博客版本
+### 2. 博客版本记录
 1. [博客版本v0.0.1](./other/blog_record/1811/181000.md)
 2. [博客版本v0.0.2](./other/blog_record/1811/181101.md)
 3. [博客版本v0.0.3](./other/blog_record/1811/181104.md)
@@ -208,7 +208,7 @@
 12. [博客版本v1.1.2](./other/blog_record/2002/200201.md)
 13. [博客版本v1.1.3](./other/blog_record/2002/200202.md)
 
-### webpack
+### 3. webpack
 1. [webpack4（1）](./other/webpack/1812/01.md)
 2. [webpack4（2）](./other/webpack/1812/02.md)
 3. [webpack4（3）](./other/webpack/1812/03.md)
@@ -218,11 +218,11 @@
 7. [webpack 发布 npm 插件](./other/webpack/1905/190502.md)
 8. [npm 于 cnpm 对于打包的影响](./other/webpack/1905/190502.md)
 
-### 3. 思维
+### 4. 思维
 1. [前端一点小想法](./other/thinking/1812/01.md)
 1. [软件开发的三大原则](./other/thinking/1912/191201.md)
 
-### 4. 阅读
+### 5. 阅读
 1. [javaScript高级程序设计（第三版）笔记 - 01](./other/read/javaScriptGJCXSJ/190201.md)
 2. [javaScript高级程序设计（第三版）笔记 - 02](./other/read/javaScriptGJCXSJ/190202.md)
 3. [javaScript高级程序设计（第三版）笔记 - 03](./other/read/javaScriptGJCXSJ/190203.md)
@@ -231,7 +231,10 @@
 6. [javaScript高级程序设计（第三版）笔记 - 06](./other/read/javaScriptGJCXSJ/190303.md)
 7. [《你不知道的JavaScript(上卷)》-1](./other/read/1811/01.md)
 
-### 5. 常用工具软件及网站
+### 6. 常用工具软件及网站
 1. [工作学习常用工具及网站](./other/tool/190401.md)
 2. [vscode 常用插件](./other/tool/190601.md)
 3. [md 表格语法和生成目录](./other/tool/191201.md)
+
+### 7. 文章翻译
+1. [vscode 版本1.44 说明文件翻译](./other/translation/200401.md)
