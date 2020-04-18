@@ -10,9 +10,10 @@
 5. [html 常用的头部标签以及移动端常用的头部标签](./browser/html/1905/190501.md)
 6. [html 标签 pre 的使用](./browser/html/2001/200101.md)
 
+
 ### 2,css
-1. [遮罩层镂空](./browser/css/1806/01.md)
-2. [文字过长截断并且用省略号代替](./browser/css/1902/01.md)
+1. [遮罩层镂空](./browser/css/1806/180601.md)
+2. [文字过长截断并且用省略号代替](./browser/css/1902/190201.md)
 3. [创建 BFC](./browser/html/1904/190402.md)
 4. [两列布局：一列固定宽，一列自适应](./browser/html/1905/190501.md)
 5. [如何让 HTML 识别 string 里的 '\n' 并成功换行？](./browser/html/1906/190601.md)
