@@ -81,7 +81,7 @@
 ### nginx
 1. [nginx开启关闭以及重启](./FullStack/nginx/1806/01.md)
 2. [nginx.conf详解](./FullStack/nginx/1806/02.md)
-3. [nginx开启关闭以及重启2](./FullStack/nginx/1811/01.md)
+3. [nginx开启关闭以及重启2](./FullStack/nginx/1811/181101.md)
 4. [nginx 开启 GZIP](./FullStack/nginx/1904/190401.md)
 5. [bug: nginx 转发不了文件](./FullStack/nginx/2001/200101.md)
 6. [nginx 转发静态文件以及转发请求](./FullStack/nginx/2001/200102.md)
