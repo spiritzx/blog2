@@ -195,19 +195,7 @@
 5. [github 不更新你的提交记录](./other/git/1912/191201.md)
 
 ### 2. 博客版本记录
-1. [博客版本v0.0.1](./other/blog_record/1811/181000.md)
-2. [博客版本v0.0.2](./other/blog_record/1811/181101.md)
-3. [博客版本v0.0.3](./other/blog_record/1811/181104.md)
-4. [博客版本v0.0.4](./other/blog_record/1811/181105.md)
-5. [博客版本v0.0.5](./other/blog_record/1811/181107.md)
-6. [博客版本v0.0.6](./other/blog_record/1902/190201.md)
-7. [博客版本v0.0.7](./other/blog_record/1904/190401.md)
-8. [博客版本v0.0.8](./other/blog_record/1904/190402.md)
-9. [博客版本v0.0.9](./other/blog_record/1904/190403.md)
-10. [博客版本v1.1.0](./other/blog_record/1905/190501.md)
-11. [博客版本v1.1.1](./other/blog_record/1905/190502.md)
-12. [博客版本v1.1.2](./other/blog_record/2002/200201.md)
-13. [博客版本v1.1.3](./other/blog_record/2002/200202.md)
+1. [详情请点击](./other/blog_record/blog_record.md)
 
 ### 3. webpack
 1. [webpack4（1）](./other/webpack/1812/01.md)
