@@ -134,20 +134,15 @@
 7. [Electron 的进程之间的交流](./FullStack/electron/2002/200207.md)
 8. [electron 在 vue-cli 4 中配置打包选项](./FullStack/electron/2003/200301.md)
 
-------
-## 四，微信
 ### 微信小程序
-1. [小程序原生组件z-index](./weixin/miniprogram/1806/01.md)
-2. [实现遮罩层下底层不滚动](./weixin/miniprogram/1806/02.md)
-3. [小程序实现网页端cookie会话功能](./weixin/miniprogram/1806/03.md)
-4. [小程序 canvas 裁剪图形，开发者 会有bug](./weixin/miniprogram/1902/01.md)
-5. [小程序 webview 开发](./weixin/miniprogram/1904/190401.md)
-
-### wepy
-1. [wepy之子组件向父组件的传值](./weixin/wepy/1806/01.md)
+1. [小程序原生组件z-index](./FullStack/miniprogram/1806/180601.md)
+2. [实现遮罩层下底层不滚动](./FullStack/miniprogram/1806/180602.md)
+3. [小程序实现网页端cookie会话功能](./FullStack/miniprogram/1806/180603.md)
+4. [小程序 canvas 裁剪图形，开发者会有 bug](./FullStack/miniprogram/1902/190201.md)
+5. [小程序 webview 开发](./FullStack/miniprogram/1904/190401.md)
 
 ------
-## 五，编程知识
+## 四，编程知识
 ### 测试
 1. [node测试](./program/test/1807/01.md)
 2. [vue测试](./program/test/1807/02.md)
@@ -186,7 +181,7 @@
 13. [typescript 使用中括号获取对象的属性和方法](./program/typeScript/2004/200404.md)
 
 ------
-## 六，其他
+## 五，其他
 ### 1. git
 1. [常用操作命令](./other/git/1806/00.md)
 2. [git分支管理-branth](./other/git/1806/01.md)
