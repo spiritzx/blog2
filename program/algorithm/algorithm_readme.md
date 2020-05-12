@@ -3,7 +3,7 @@
  * @Author: tom-z(spirit108@foxmail.com)
  * @Date: 2020-02-15 23:07:36
  * @LastEditors: tom-z(spirit108@foxmail.com)
- * @LastEditTime: 2020-05-02 23:21:13
+ * @LastEditTime: 2020-05-12 21:55:25
  -->
 
 # 数据结构与算法
@@ -39,3 +39,4 @@
 29. [ts 击鼓传花](./2005/200501.md)
 30. [ts 优先队列](./2005/200502.md)
 31. [ts 模拟单向链表](./2005/200503.md)
+32. [ts 模拟双向链表](./2005/200504.md)
