@@ -187,7 +187,8 @@
 2. [git分支管理-branth](./other/git/1806/01.md)
 3. [git 问题解决](./other/git/1806/02.md)
 4. [git 与 github 工作流](./other/git/1806/03.md)
-5. [github 不更新你的提交记录](./other/git/1912/191201.md)
+5. [git 不更新你的提交记录](./other/git/1912/191201.md)
+6. [git 删除本地 tag 和远程 tag](./other/git/2005/200501.md)
 
 ### 2. 博客版本记录
 1. [详情请点击](./other/blog_record/blog_record.md)
