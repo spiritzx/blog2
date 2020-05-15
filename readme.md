@@ -224,3 +224,4 @@
 
 ### 7. 文章翻译
 1. [vscode 版本1.44 说明文件翻译](./other/translation/200401.md)
+2. [vscode 版本1.45.1 说明文件翻译](./other/translation/200501.md)
