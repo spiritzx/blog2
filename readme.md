@@ -180,6 +180,7 @@
 12. [ts 装饰器](./program/typeScript/2004/200403.md)
 13. [typescript 使用中括号获取对象的属性和方法](./program/typeScript/2004/200404.md)
 14. [ts 不能使用 for of 遍历 Set](./program/typeScript/2005/200501.md)
+15. [ts 类型断言](./program/typeScript/2005/200502.md)
 
 ------
 ## 五，其他
