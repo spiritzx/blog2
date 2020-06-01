@@ -3,7 +3,7 @@
  * @Author: tom-z(spirit108@foxmail.com)
  * @Date: 2020-02-10 08:36:08
  * @LastEditors: tom-z(spirit108@foxmail.com)
- * @LastEditTime: 2020-05-29 14:43:04
+ * @LastEditTime: 2020-06-01 15:34:13
 --> 
 # react
 1. [jsx-基础语法](./1910/191001.md)
@@ -18,4 +18,5 @@
 10. [react 简单使用 redux](./1912/191206.md)
 11. [react 跨域](./1912/191207.md)
 12. [bug：react 打包上传服务器显示空白](./2001/200101.md)
-13. [react 按需加载 antd](./2001/200501.md)
+13. [react 按需加载 antd](./2005/200501.md)
+14. [react 代替 component](./2006/200601.md)
