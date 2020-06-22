@@ -188,6 +188,7 @@
 
 ### Dart
 1. [vscode 写 dart](./program/dart/2006/200601.md)
+2. [dart 常用数据类型](./program/dart/2006/200602.md)
 
 ------
 ## 五，其他
