@@ -193,6 +193,7 @@
 4. [dart 的 List 结构](./program/dart/2006/200604.md)
 5. [dart 的 Set 结构](./program/dart/2006/200605.md)
 6. [dart 的 Map 结构](./program/dart/2006/200606.md)
+7. [dart 的类结构](./program/dart/2006/200607.md)
 
 ------
 ## 五，其他
