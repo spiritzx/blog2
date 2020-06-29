@@ -195,6 +195,7 @@
 6. [dart 的 Map 结构](./program/dart/2006/200606.md)
 7. [dart 的类结构](./program/dart/2006/200607.md)
 8. [dart 的抽象类,多态和接口](./program/dart/2006/200608.md)
+9. [dart 的继承,接口和混入](./program/dart/2006/200609.md)
 
 ------
 ## 五，其他
