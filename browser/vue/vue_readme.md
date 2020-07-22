@@ -1,3 +1,10 @@
+<!--
+ * @Descripttion: vue 文件导航
+ * @Author: tom-z(spirit108@foxmail.com)
+ * @Date: 2020-07-16 22:37:56
+ * @LastEditors: tom-z(spirit108@foxmail.com)
+ * @LastEditTime: 2020-07-18 00:18:43
+--> 
 
 # vue 文件导航
 1. [vue之子组件向父组件传递事件和值](./1806/180601.md)
@@ -36,3 +43,4 @@
 34. [nuxt: 路由](./2004/200402.md)
 35. [nuxt 使用 axios 以及跨域](./2004/200403.md)
 36. [vue 下载数据](./2007/200701.md)
+37. [vue-router 版本升级到 3.10.0 以后](./2007/200701.md)
