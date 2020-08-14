@@ -147,7 +147,9 @@
 ### uniApp
 1. [uniApp 自定义头部导航栏](./FullStack/uniApp/2007/200701.md)
 2. [uniApp 引入 Echarts（一）](./FullStack/uniApp/2007/200702.md)
-2. [uniApp 引入 Echarts（二）](./FullStack/uniApp/2007/200703.md)
+3. [uniApp 引入 Echarts（二）](./FullStack/uniApp/2007/200703.md)
+4. [uniApp 跨域](./FullStack/uniApp/2007/200704.md)
+
 
 ------
 ## 四，编程知识
