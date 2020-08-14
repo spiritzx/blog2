@@ -3,7 +3,7 @@
  * @Author: tom-z(spirit108@foxmail.com)
  * @Date: 2019-12-06 08:47:59
  * @LastEditors: tom-z(spirit108@foxmail.com)
- * @LastEditTime: 2020-04-14 22:25:28
+ * @LastEditTime: 2020-08-14 15:49:19
  -->
 # javascript
 1. [freecodecamp基础算法题-个人向（1）](./1811/181101.md)
@@ -38,3 +38,4 @@
 30. [浏览器端 WebSocket](./2002/200201.md)
 31. [时间计时函数](./2002/200202.md)
 32. [获得当前时间往前几天的具体时间](./2002/200203.md)
+33. [safari new Date](./2008/200801.md)
