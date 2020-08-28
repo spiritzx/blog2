@@ -3,7 +3,7 @@
  * @Author: tom-z(spirit108@foxmail.com)
  * @Date: 2020-07-16 22:37:56
  * @LastEditors: tom-z(spirit108@foxmail.com)
- * @LastEditTime: 2020-07-18 00:18:43
+ * @LastEditTime: 2020-08-28 17:27:20
 --> 
 
 # vue 文件导航
@@ -44,3 +44,4 @@
 35. [nuxt 使用 axios 以及跨域](./2004/200403.md)
 36. [vue 下载数据](./2007/200701.md)
 37. [vue-router 版本升级到 3.10.0 以后](./2007/200701.md)
+38. [vue 中的 transtion](./2008/200801.md)
