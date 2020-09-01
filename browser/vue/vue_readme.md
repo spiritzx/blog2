@@ -3,7 +3,7 @@
  * @Author: tom-z(spirit108@foxmail.com)
  * @Date: 2020-07-16 22:37:56
  * @LastEditors: tom-z(spirit108@foxmail.com)
- * @LastEditTime: 2020-08-28 22:42:19
+ * @LastEditTime: 2020-09-01 11:41:54
 --> 
 
 # vue 文件导航
@@ -46,3 +46,4 @@
 37. [vue-router 版本升级到 3.10.0 以后](./2007/200701.md)
 38. [vue 中的 transtion](./2008/200801.md)
 39. [接触 vue@3](./2008/200802.md)
+40. [vue3 的生命周期](./2009/200901.md)
