@@ -3,7 +3,7 @@
  * @Author: tom-z(spirit108@foxmail.com)
  * @Date: 2020-07-16 22:37:56
  * @LastEditors: tom-z(spirit108@foxmail.com)
- * @LastEditTime: 2020-09-01 11:41:54
+ * @LastEditTime: 2020-09-04 17:08:39
 --> 
 
 # vue 文件导航
@@ -47,3 +47,5 @@
 38. [vue 中的 transtion](./2008/200801.md)
 39. [接触 vue@3](./2008/200802.md)
 40. [vue3 的生命周期](./2009/200901.md)
+41. [vue3 的 composition-api 生命周期](./2009/200901.md)
+42. [用 composition-api 代替 Mixins](./2009/200902.md)
