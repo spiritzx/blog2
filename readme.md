@@ -8,19 +8,19 @@
 3. [前端，后端，前台，后台](./browser/html/1903/190303.md)
 4. [浏览器渲染 html 文件](./browser/html/1904/190401.md)
 5. [html 常用的头部标签以及移动端常用的头部标签](./browser/html/1905/190501.md)
-6. [html 标签 pre 的使用](./browser/html/2001/200101.md)
+6. [如何让 HTML 识别 string 里的 '\n' 并成功换行？](./browser/html/1906/190601.md)
+7. [html 标签 pre 的使用](./browser/html/2001/200101.md)
 
 
 ### 2,css
 1. [遮罩层镂空](./browser/css/1806/180601.md)
 2. [文字过长截断并且用省略号代替](./browser/css/1902/190201.md)
-3. [创建 BFC](./browser/html/1904/190402.md)
-4. [两列布局：一列固定宽，一列自适应](./browser/html/1905/190501.md)
-5. [如何让 HTML 识别 string 里的 '\n' 并成功换行？](./browser/html/1906/190601.md)
-6. [父元素根据子元素来撑起宽度](./browser/html/1907/190701.md)
-7. [网页全局变灰](./browser/html/1912/191201.md)
-8. [使用 vw,vh 对大屏项目进行适配](./browser/html/1912/191202.md)
-9. [grid 布局简单使用](./browser/html/2009/200901.md)
+3. [创建 BFC](./browser/css/1904/190402.md)
+4. [两列布局：一列固定宽，一列自适应](./browser/css/1905/190501.md)
+5. [父元素根据子元素来撑起宽度](./browser/css/1907/190701.md)
+6. [网页全局变灰](./browser/css/1912/191201.md)
+7. [使用 vw,vh 对大屏项目进行适配](./browser/css/1912/191202.md)
+8. [grid 布局简单使用](./browser/css/2009/200901.md)
 
 ### 3,javaScript
 1. [点击查看详情](./browser/javaScript/js_readme.md)
