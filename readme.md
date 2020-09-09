@@ -151,6 +151,7 @@
 2. [uniApp 引入 Echarts（一）](./FullStack/uniApp/2007/200702.md)
 3. [uniApp 引入 Echarts（二）](./FullStack/uniApp/2007/200703.md)
 4. [uniApp 跨域](./FullStack/uniApp/2007/200704.md)
+5. [uniapp 自定义头部导航栏 logo 与胶囊按钮对齐](./FullStack/uniApp/2009/200901.md)
 
 
 ------
