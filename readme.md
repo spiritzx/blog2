@@ -21,6 +21,7 @@
 6. [网页全局变灰](./browser/css/1912/191201.md)
 7. [使用 vw,vh 对大屏项目进行适配](./browser/css/1912/191202.md)
 8. [grid 布局简单使用](./browser/css/2009/200901.md)
+9. [文字强制换行](./browser/css/2009/200902.md)
 
 ### 3,javaScript
 1. [点击查看详情](./browser/javaScript/js_readme.md)
@@ -50,7 +51,7 @@
 4. [SVG:分组, 定义和复用](./browser/Svg/2002/200203.md)
 5. [SVG:path](./browser/Svg/2002/200204.md)
 6. [SVG: 轨迹动画和字体笔迹动画](./browser/Svg/2002/200205.md)
-6. [如何把复杂的图片转化为 svg](./browser/Svg/2002/200206.md)
+7. [如何把复杂的图片转化为 svg](./browser/Svg/2002/200206.md)
 
 ------
 
