@@ -87,6 +87,7 @@
 4. [nginx 开启 GZIP](./FullStack/nginx/1904/190401.md)
 5. [bug: nginx 转发不了文件](./FullStack/nginx/2001/200101.md)
 6. [nginx 转发静态文件以及转发请求](./FullStack/nginx/2001/200102.md)
+7. [nginx 代理请求转发报错](./FullStack/nginx/2009/200901.md)
 
 ### nodeJS
 1. [express前言](./FullStack/node/1806/00.md)
