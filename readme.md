@@ -117,6 +117,7 @@
 7. [Linux基本命令-02](./FullStack/linux/1905/190502.md)
 8. [centOS7 安装 nginx](./FullStack/linux/1906/190601.md)
 9. [centOS7 安装 mysql](./FullStack/linux/1906/190602.md)
+10. [Centos7 开放及查看端口](./FullStack/linux/2009/200901.md)
 
 ### http
 1. [服务器常用网络端口](./FullStack/http/1807/180701.md)
