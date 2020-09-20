@@ -88,6 +88,7 @@
 5. [bug: nginx 转发不了文件](./FullStack/nginx/2001/200101.md)
 6. [nginx 转发静态文件以及转发请求](./FullStack/nginx/2001/200102.md)
 7. [nginx 代理请求转发报错](./FullStack/nginx/2009/200901.md)
+8. [nginx 重启报错](./FullStack/nginx/2009/200902.md)
 
 ### nodeJS
 1. [express前言](./FullStack/node/1806/00.md)
@@ -155,6 +156,9 @@
 5. [uniapp 自定义头部导航栏 logo 与胶囊按钮对齐](./FullStack/uniApp/2009/200901.md)
 6. [设置 uniapp 自定义导航高度](./FullStack/uniApp/2009/200902.md)
 
+### mysql
+1. [服务器mysql允许远程连接](./FullStack/mysql/2009/200901.md)
+2. [centos彻底卸载mysql](./FullStack/mysql/2009/200902.md)
 
 ------
 ## 四，编程知识
