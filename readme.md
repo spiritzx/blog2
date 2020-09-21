@@ -91,21 +91,16 @@
 8. [nginx 重启报错](./FullStack/nginx/2009/200902.md)
 
 ### nodeJS
-1. [express前言](./FullStack/node/1806/00.md)
-2. [express快速构建项目](./FullStack/node/1806/01.md)
-3. [rom工具(Sequelize):连接mysql数据库](./FullStack/node/1806/02.md)
-4. [rom工具(Sequelize):定义数据表模型](./FullStack/node/1806/03.md)
-5. [node-常用模块](./FullStack/node/1807/00.md)
-6. [node-http](./FullStack/node/1807/01.md)
-7. [node-fs](./FullStack/node/1807/02.md)
-8. [express: cookie和session](./FullStack/node/1807/180701.md)
-9. [koa2 开发开源博客（1）](./FullStack/node/1812/01.md)
-10. [express 设置缓存](./FullStack/node/1904/190401.md)
-11. [四步开始 koa + typescript](./FullStack/node/2003/200301.md)
-12. [shelljs 简介](./FullStack/node/2003/200302.md)
-13. [cross-env 简介](./FullStack/node/2003/200302.md)
-14. [使用 typescript 开发 express](./FullStack/node/2004/200401.md)
-15. [RESTful api 理解](./FullStack/node/2004/200402.md)
+1. [express: cookie和session](./FullStack/node/1807/180701.md)
+2. [node-http](./FullStack/node/1807/180702.md)
+3. [node-fs](./FullStack/node/1807/180703.md)
+4. [koa2 开发开源博客（1）](./FullStack/node/1812/181201.md)
+5. [express 设置缓存](./FullStack/node/1904/190401.md)
+6. [四步开始 koa + typescript](./FullStack/node/2003/200301.md)
+7. [shelljs 简介](./FullStack/node/2003/200302.md)
+8. [cross-env 简介](./FullStack/node/2003/200302.md)
+9. [使用 typescript 开发 express](./FullStack/node/2004/200401.md)
+10. [RESTful api 理解](./FullStack/node/2004/200402.md)
 
 ### linux
 1. [linux 服务管理](./FullStack/linux/1807/01.md)
@@ -160,6 +155,8 @@
 ### mysql
 1. [服务器mysql允许远程连接](./FullStack/mysql/2009/200901.md)
 2. [centos彻底卸载mysql](./FullStack/mysql/2009/200902.md)
+3. [rom工具(Sequelize):连接mysql数据库](./FullStack/mysql/2009/200903.md)
+4. [rom工具(Sequelize):定义数据表模型](./FullStack/mysql/2009/200904.md)
 
 ------
 ## 四，编程知识
