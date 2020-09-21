@@ -157,6 +157,7 @@
 2. [centos彻底卸载mysql](./FullStack/mysql/2009/200902.md)
 3. [rom工具(Sequelize):连接mysql数据库](./FullStack/mysql/2009/200903.md)
 4. [rom工具(Sequelize):定义数据表模型](./FullStack/mysql/2009/200904.md)
+5. [Sequelize 查询 mysql 数据库](./FullStack/mysql/2009/200905.md)
 
 ------
 ## 四，编程知识
