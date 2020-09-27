@@ -3,7 +3,7 @@
  * @Author: tom-z(spirit108@foxmail.com)
  * @Date: 2020-07-16 22:37:56
  * @LastEditors: tom-z(spirit108@foxmail.com)
- * @LastEditTime: 2020-09-04 17:08:39
+ * @LastEditTime: 2020-09-27 17:02:59
 --> 
 
 # vue 文件导航
@@ -49,3 +49,4 @@
 40. [vue3 的生命周期](./2009/200901.md)
 41. [vue3 的 composition-api 生命周期](./2009/200901.md)
 42. [用 composition-api 代替 Mixins](./2009/200902.md)
+43. [composition 组件之子组件向父组件传值](./2009/200903.md)
