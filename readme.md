@@ -264,3 +264,4 @@
 1. [RGB 与 CMY 颜色对应关系](./other/photo/2010/201001.md)
 2. [颜色](./other/photo/2010/201002.md)
 3. [相机基础知识](./other/photo/2010/201003.md)
+4. [影调](./other/photo/2010/201004.md)
