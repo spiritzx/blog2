@@ -3,7 +3,7 @@
  * @Author: tom-z(spirit108@foxmail.com)
  * @Date: 2019-12-06 08:47:59
  * @LastEditors: tom-z(spirit108@foxmail.com)
- * @LastEditTime: 2020-10-13 11:22:45
+ * @LastEditTime: 2020-10-13 15:48:46
  -->
 # javascript
 1. [freecodecamp基础算法题-个人向（1）](./1811/181101.md)
@@ -21,7 +21,7 @@
 13. [浅谈函数防抖与节流](./1902/01.md)
 14. [js 中的 this](./1902/09.md)
 15. [call， apply](./1902/10.md)
-16. [闭包](./1903/01.md)
+16. [闭包](./1903/190301.md)
 17. [javascript-ES3常用数组api](./1904/190401.md)
 18. [javascript-ES5常用数组api](./1904/190402.md)
 19. [javascript-ES6常用数组api](./1904/190403.md)
