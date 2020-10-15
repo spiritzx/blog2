@@ -10,6 +10,7 @@
 5. [html 常用的头部标签以及移动端常用的头部标签](./browser/html/1905/190501.md)
 6. [如何让 HTML 识别 string 里的 '\n' 并成功换行？](./browser/html/1906/190601.md)
 7. [html 标签 pre 的使用](./browser/html/2001/200101.md)
+8. [浏览器内核](./browser/html/2010/201001.md)
 
 
 ### 2,css
