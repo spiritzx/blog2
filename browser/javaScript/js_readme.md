@@ -3,7 +3,7 @@
  * @Author: tom-z(spirit108@foxmail.com)
  * @Date: 2019-12-06 08:47:59
  * @LastEditors: tom-z(spirit108@foxmail.com)
- * @LastEditTime: 2020-10-15 11:26:43
+ * @LastEditTime: 2020-10-20 10:55:46
  -->
 # javascript
 1. [freecodecamp基础算法题-个人向（1）](./1811/181101.md)
@@ -42,4 +42,5 @@
 34. [作用域查找](./2010/201001.md)
 35. [ES6 module](./2010/201002.md)
 36. [js 严格模式](./2010/201003.md)
+37. [Proxy](./2010/201004.md)
 
