@@ -3,7 +3,7 @@
  * @Author: tom-z(spirit108@foxmail.com)
  * @Date: 2020-02-10 08:36:08
  * @LastEditors: tom-z(spirit108@foxmail.com)
- * @LastEditTime: 2020-10-07 22:11:58
+ * @LastEditTime: 2020-10-20 16:11:08
 --> 
 # react
 1. [jsx-基础语法](./1910/191001.md)
@@ -25,3 +25,4 @@
 17. [React-ts 安装各个插件](./2009/200902.md)
 18. [ts 编写 react-redux](./2009/200903.md)
 19. [useEffect 模拟 componentDidMount](./2010/201001.md)
+20. [reac 的 refs](./2010/201002.md)
