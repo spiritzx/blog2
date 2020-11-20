@@ -3,7 +3,7 @@
  * @Author: tom-z(spirit108@foxmail.com)
  * @Date: 2019-12-06 08:47:59
  * @LastEditors: tom-z(spirit108@foxmail.com)
- * @LastEditTime: 2020-11-19 16:01:07
+ * @LastEditTime: 2020-11-20 17:05:37
  -->
 # javascript
 1. [freecodecamp基础算法题-个人向（1）](./1811/181101.md)
@@ -47,4 +47,4 @@
 39. [js数据类型和包装类型](./2011/201102.md)
 40. [Symbol](./2011/201103.md)
 41. [BigInt](./2011/201104.md)
-
+42. [JS 的 Number 类型的几个问题](./2011/201105.md)
