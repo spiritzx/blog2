@@ -3,7 +3,7 @@
  * @Author: tom-z(spirit108@foxmail.com)
  * @Date: 2020-02-10 08:36:08
  * @LastEditors: tom-z(spirit108@foxmail.com)
- * @LastEditTime: 2020-11-24 14:45:11
+ * @LastEditTime: 2020-11-24 16:41:45
 --> 
 # react
 1. [jsx-基础语法](./1910/191001.md)
@@ -29,3 +29,4 @@
 21. [react 的 setState](./2010/201003.md)
 22. [React Hooks](./2011/201101.md)
 23. [useState](./2011/201102.md)
+24. [useEffect](./2011/201103.md)
