@@ -3,7 +3,7 @@
  * @Author: tom-z(spirit108@foxmail.com)
  * @Date: 2020-02-10 08:36:08
  * @LastEditors: tom-z(spirit108@foxmail.com)
- * @LastEditTime: 2020-11-27 11:23:02
+ * @LastEditTime: 2020-11-27 16:57:46
 --> 
 # react
 1. [jsx-基础语法](./1910/191001.md)
@@ -34,4 +34,5 @@
 26. [useReducer](./2011/201105.md)
 27. [useCallback](./2011/201106.md)
 28. [useMemo](./2011/201107.md)
-29. [refs](./2011/201108.md)
+29. [useRef](./2011/201108.md)
+30. [useImperativeHandle](./2011/201109.md)
