@@ -12,6 +12,7 @@
 7. [html 标签 pre 的使用](./browser/html/2001/200101.md)
 8. [浏览器内核](./browser/html/2010/201001.md)
 9. [开发者工具的 timing](./browser/html/2010/201002.md)
+10. [前端标签语义化](./browser/html/2011/201101.md)
 
 
 ### 2,css
