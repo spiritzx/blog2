@@ -3,7 +3,7 @@
  * @Author: tom-z(spirit108@foxmail.com)
  * @Date: 2019-12-06 08:47:59
  * @LastEditors: tom-z(spirit108@foxmail.com)
- * @LastEditTime: 2020-11-20 17:05:37
+ * @LastEditTime: 2020-12-02 10:59:30
  -->
 # javascript
 1. [freecodecamp基础算法题-个人向（1）](./1811/181101.md)
@@ -27,7 +27,7 @@
 19. [javascript-ES6常用数组api](./1904/190403.md)
 20. [js面试题-实例对象与构造函数](./1904/190404.md)
 21. [正则表达式入门](./1904/190405.md)
-22. [js面试题-javascript 对象作为对象的属性名字](./1904/190406.md)
+22. [js面试题-javascript 对象 key 冲突问题](./1904/190406.md)
 23. [js 事件执行机制](./1904/190407.md)
 24. [常用正则表达式及解析](./1909/190901.md)
 25. [js 正则表达式的常用方法](./1909/190902.md)
