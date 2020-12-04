@@ -3,7 +3,7 @@
  * @Author: tom-z(spirit108@foxmail.com)
  * @Date: 2019-12-06 08:47:59
  * @LastEditors: tom-z(spirit108@foxmail.com)
- * @LastEditTime: 2020-12-03 16:04:01
+ * @LastEditTime: 2020-12-04 16:26:03
  -->
 # javascript
 1. [freecodecamp基础算法题-个人向（1）](./1811/181101.md)
@@ -50,3 +50,4 @@
 42. [JS 的 Number 类型的几个问题](./2011/201105.md)
 43. [js 数据类型判断](./2012/201201.md)
 44. [js 执行栈（execution context stack）](./2012/201202.md)
+45. [js 执行上下文（execution context）](./2012/201203.md)
