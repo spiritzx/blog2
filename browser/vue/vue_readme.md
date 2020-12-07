@@ -3,7 +3,7 @@
  * @Author: tom-z(spirit108@foxmail.com)
  * @Date: 2020-07-16 22:37:56
  * @LastEditors: tom-z(spirit108@foxmail.com)
- * @LastEditTime: 2020-09-27 17:02:59
+ * @LastEditTime: 2020-12-07 16:20:51
 --> 
 
 # vue 文件导航
@@ -50,3 +50,4 @@
 41. [vue3 的 composition-api 生命周期](./2009/200901.md)
 42. [用 composition-api 代替 Mixins](./2009/200902.md)
 43. [composition 组件之子组件向父组件传值](./2009/200903.md)
+44. [vue2.0 和 vue3.0 数据劫持的区别](./2012/201201.md)
