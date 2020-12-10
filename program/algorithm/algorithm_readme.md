@@ -3,7 +3,7 @@
  * @Author: tom-z(spirit108@foxmail.com)
  * @Date: 2020-02-15 23:07:36
  * @LastEditors: tom-z(spirit108@foxmail.com)
- * @LastEditTime: 2020-12-07 22:47:51
+ * @LastEditTime: 2020-12-10 22:55:41
  -->
 
 # 数据结构与算法
@@ -26,6 +26,7 @@
 6. [leetcode-11：删除排序数组中的重复项2](./1904/190414.md)
 7. [leetcode-10：移动零](./1904/190413.md)
 8. [leetcode-09：移除元素](./1904/190412.md)
+9. [数组拍平](./2012/201201.md)
 
 ## 递归
 1. [递归](./1807/180701.md)
