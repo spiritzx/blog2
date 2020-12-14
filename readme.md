@@ -209,6 +209,7 @@
 15. [ts 类型断言](./program/typeScript/2005/200502.md)
 16. [ts 类型 unknown 与 any 的区别](./program/typeScript/2005/200503.md)
 17. [给插件写 ts 类型描述文件](./program/typeScript/2010/201001.md)
+18. [给引入的图片类型写类型文件](./program/typeScript/2012/201201.md)
 
 ### Dart
 1. [vscode 写 dart](./program/dart/2006/200601.md)
