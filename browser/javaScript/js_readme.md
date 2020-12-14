@@ -3,7 +3,7 @@
  * @Author: tom-z(spirit108@foxmail.com)
  * @Date: 2019-12-06 08:47:59
  * @LastEditors: tom-z(spirit108@foxmail.com)
- * @LastEditTime: 2020-12-14 22:13:48
+ * @LastEditTime: 2020-12-14 23:11:33
  -->
 # javascript
 ## js 基础
@@ -58,3 +58,4 @@
 8. [js面试题-实例对象与构造函数](./1904/190404.md)
 9. [js面试题: 实现 (5).add(3).minus(2),且返回 6](./2012/201205.md)
 10. [js面试题-事件队列](./1812/181201.md)
+11. [js面试题: 实现 (a == 1 && a == 2 && a == 3)](./1812/181207.md)
