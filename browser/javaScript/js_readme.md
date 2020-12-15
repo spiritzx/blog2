@@ -3,7 +3,7 @@
  * @Author: tom-z(spirit108@foxmail.com)
  * @Date: 2019-12-06 08:47:59
  * @LastEditors: tom-z(spirit108@foxmail.com)
- * @LastEditTime: 2020-12-14 23:11:33
+ * @LastEditTime: 2020-12-15 21:53:09
  -->
 # javascript
 ## js 基础
@@ -59,3 +59,4 @@
 9. [js面试题: 实现 (5).add(3).minus(2),且返回 6](./2012/201205.md)
 10. [js面试题-事件队列](./1812/181201.md)
 11. [js面试题: 实现 (a == 1 && a == 2 && a == 3)](./1812/181207.md)
+12. [js面试题: push 的实现原理](./1812/181208.md)
