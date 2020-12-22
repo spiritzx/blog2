@@ -3,7 +3,7 @@
  * @Author: tom-z(spirit108@foxmail.com)
  * @Date: 2019-12-06 08:47:59
  * @LastEditors: tom-z(spirit108@foxmail.com)
- * @LastEditTime: 2020-12-17 22:42:51
+ * @LastEditTime: 2020-12-22 21:28:25
  -->
 # javascript
 ## js 基础
@@ -45,6 +45,7 @@
 36. [js 严格模式](./2010/201003.md)
 37. [js基础: 执行栈（execution context stack）](./2012/201202.md)
 38. [js基础: 执行上下文（execution context）](./2012/201203.md)
+39. [js基础: 连等号的赋值](./2012/201210.md)
 
 ------
 
