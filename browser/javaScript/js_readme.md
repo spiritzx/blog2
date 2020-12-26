@@ -3,7 +3,7 @@
  * @Author: tom-z(spirit108@foxmail.com)
  * @Date: 2019-12-06 08:47:59
  * @LastEditors: tom-z(spirit108@foxmail.com)
- * @LastEditTime: 2020-12-26 11:10:43
+ * @LastEditTime: 2020-12-26 11:58:10
  -->
 # javascript
 ## js 基础
@@ -47,6 +47,7 @@
 38. [js基础: 执行上下文（execution context）](./2012/201203.md)
 39. [js基础: 连等号的赋值](./2012/201210.md)
 40. [js基础: 变量回收机制](./2012/201211.md)
+41. [js基础: Dom 事件](./2012/201213.md)
 
 ------
 
