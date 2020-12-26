@@ -3,7 +3,7 @@
  * @Author: tom-z(spirit108@foxmail.com)
  * @Date: 2019-12-06 08:47:59
  * @LastEditors: tom-z(spirit108@foxmail.com)
- * @LastEditTime: 2020-12-26 10:53:43
+ * @LastEditTime: 2020-12-26 11:10:43
  -->
 # javascript
 ## js 基础
@@ -64,3 +64,4 @@
 11. [js面试题: 实现 (a == 1 && a == 2 && a == 3)](./2012/201207.md)
 12. [js面试题: push 的实现原理](./2012/201208.md)
 13. [js面试题: javascript 对象 key 冲突问题](./1904/190406.md)
+14. [js面试题: 变量函数申明提升](./2012/201212.md)
