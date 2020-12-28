@@ -3,7 +3,7 @@
  * @Author: tom-z(spirit108@foxmail.com)
  * @Date: 2019-12-06 08:47:59
  * @LastEditors: tom-z(spirit108@foxmail.com)
- * @LastEditTime: 2020-12-26 11:58:10
+ * @LastEditTime: 2020-12-28 21:54:02
  -->
 # javascript
 ## js 基础
@@ -66,3 +66,4 @@
 12. [js面试题: push 的实现原理](./2012/201208.md)
 13. [js面试题: javascript 对象 key 冲突问题](./1904/190406.md)
 14. [js面试题: 变量函数申明提升](./2012/201212.md)
+15. [js面试题: 取出 url 中的 query 参数](./2012/201214.md)
