@@ -3,7 +3,7 @@
  * @Author: tom-z(spirit108@foxmail.com)
  * @Date: 2019-12-06 08:47:59
  * @LastEditors: tom-z(spirit108@foxmail.com)
- * @LastEditTime: 2020-12-29 22:51:09
+ * @LastEditTime: 2020-12-30 20:48:00
  -->
 # javascript
 ## js 基础
@@ -69,3 +69,4 @@
 15. [js面试题: 取出 url 中的 query 参数](./2012/201214.md)
 16. [js面试题: 关于闭包的问题](./2012/201215.md)
 17. [js面试题: 函数传参为引用类型](./2012/201216.md)
+18. [js面试题: 关于 this 与闭包](./2012/201217.md)
