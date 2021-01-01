@@ -3,7 +3,7 @@
  * @Author: tom-z(spirit108@foxmail.com)
  * @Date: 2019-12-06 08:47:59
  * @LastEditors: tom-z(spirit108@foxmail.com)
- * @LastEditTime: 2020-12-30 22:05:57
+ * @LastEditTime: 2021-01-01 14:31:26
  -->
 # javascript
 ## js 基础
@@ -71,3 +71,4 @@
 17. [js面试题: 函数传参为引用类型](./2012/201216.md)
 18. [js面试题: 关于 this 与闭包](./2012/201217.md)
 19. [js面试题: 关于原型链](./2012/201218.md)
+20. [js面试题: 事件循环绑定](./2101/210101.md)
