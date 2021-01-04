@@ -3,7 +3,7 @@
  * @Author: tom-z(spirit108@foxmail.com)
  * @Date: 2019-12-06 08:47:59
  * @LastEditors: tom-z(spirit108@foxmail.com)
- * @LastEditTime: 2021-01-01 14:31:26
+ * @LastEditTime: 2021-01-04 22:41:19
  -->
 # javascript
 ## js 基础
@@ -48,6 +48,7 @@
 39. [js基础: 连等号的赋值](./2012/201210.md)
 40. [js基础: 变量回收机制](./2012/201211.md)
 41. [js基础: Dom 事件](./2012/201213.md)
+42. [js基础: 宿主对象,原生对象](./2101/210102.md)
 
 ------
 
