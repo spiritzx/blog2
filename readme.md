@@ -50,6 +50,7 @@
 2. [提高首屏加载速度-基础](./browser/optimization/1904/190402.md)
 3. [减少服务器的压力](./browser/optimization/1904/190403.md)
 4. [优化 ui 交互以及动画的流畅度01](./browser/optimization/1904/190404.md)
+5. [mv* 框架的首屏渲染](./browser/optimization/2101/210101.md)
 
 #### 8,SVG
 1. [SVG 初探](./browser/Svg/2001/200101.md)
