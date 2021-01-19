@@ -3,7 +3,7 @@
  * @Author: tom-z(spirit108@foxmail.com)
  * @Date: 2019-12-06 08:47:59
  * @LastEditors: tom-z(spirit108@foxmail.com)
- * @LastEditTime: 2021-01-17 22:08:26
+ * @LastEditTime: 2021-01-19 14:27:35
  -->
 # javascript
 ## js 基础
@@ -50,6 +50,7 @@
 41. [js基础: Dom 事件](./2012/201213.md)
 42. [js基础: 宿主对象,原生对象](./2101/210102.md)
 43. [测试: macha 和 chai ](./2101/210103.md)
+44. [Ajax: Fetch 和 Xhr](./2101/210104.md)
 
 ------
 
