@@ -6,14 +6,14 @@
 1. [HTML5 上传图片并且本地预览](./browser/html/1903/190301.md)
 2. [浏览器兼容设定](./browser/html/1903/190302.md)
 3. [前端，后端，前台，后台](./browser/html/1903/190303.md)
-4. [浏览器渲染 html 文件](./browser/html/1904/190401.md)
+4. [盒内元素垂直居中](./browser/html/2011/201102.md)
 5. [html 常用的头部标签以及移动端常用的头部标签](./browser/html/1905/190501.md)
 6. [如何让 HTML 识别 string 里的 '\n' 并成功换行？](./browser/html/1906/190601.md)
 7. [html 标签 pre 的使用](./browser/html/2001/200101.md)
 8. [浏览器内核](./browser/html/2010/201001.md)
 9. [开发者工具的 timing](./browser/html/2010/201002.md)
 10. [前端标签语义化](./browser/html/2011/201101.md)
-11. [盒内元素垂直居中](./browser/html/2011/201102.md)
+
 
 
 ### 2,css
@@ -46,7 +46,7 @@
 4. [jQuery源码分析（4）](./browser/jQuery/1811/04.md)
 
 #### 7,浏览器优化
-1. [前端性能优化](./browser/optimization/1904/190401.md)
+1. [回流与重绘](./browser/optimization/1904/190401.md)
 2. [提高首屏加载速度-基础](./browser/optimization/1904/190402.md)
 3. [减少服务器的压力](./browser/optimization/1904/190403.md)
 4. [优化 ui 交互以及动画的流畅度01](./browser/optimization/1904/190404.md)
