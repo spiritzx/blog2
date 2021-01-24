@@ -3,7 +3,7 @@
  * @Author: tom-z(spirit108@foxmail.com)
  * @Date: 2020-07-16 22:37:56
  * @LastEditors: tom-z(spirit108@foxmail.com)
- * @LastEditTime: 2020-12-07 16:20:51
+ * @LastEditTime: 2021-01-24 16:29:55
 --> 
 
 # vue 文件导航
@@ -51,3 +51,4 @@
 42. [用 composition-api 代替 Mixins](./2009/200902.md)
 43. [composition 组件之子组件向父组件传值](./2009/200903.md)
 44. [vue2.0 和 vue3.0 数据劫持的区别](./2012/201201.md)
+45. [vue-cli@4 生成 app 缓慢](./2101/210101.md)
