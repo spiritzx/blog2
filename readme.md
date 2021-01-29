@@ -85,6 +85,7 @@
 3. [echarts 跟随页面调整图表尺寸](./dataVisualization/echarts/2002/200203.md)
 4. [echarts 渲染卡顿优化](./dataVisualization/echarts/2003/200301.md)
 5. [echarts 设置内边距](./dataVisualization/echarts/2003/200302.md)
+6. [echarts 监听移动or缩放事件](./dataVisualization/echarts/2101/210101.md)
 
 ------
 
@@ -193,6 +194,7 @@
 11. [ES5之前的继承](./program/js_oop/1903/190301.md)
 12. [封装](./program/js_oop/1903/190302.md)
 13. [面向对象- new 的作用及其简单模拟](./program/js_oop/1903/190303.md)
+14. [UML类图关系: 泛化与关联](./program/js_oop/2101/210101.md)
 
 ### typeScript
 1. [typeScript使用CommonJS](./program/typeScript/1903/190301.md)
