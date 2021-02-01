@@ -99,6 +99,7 @@
 6. [nginx 转发静态文件以及转发请求](./FullStack/nginx/2001/200102.md)
 7. [nginx 代理请求转发报错](./FullStack/nginx/2009/200901.md)
 8. [nginx 重启报错](./FullStack/nginx/2009/200902.md)
+9. [nginx 转发大数据过被截断](./FullStack/nginx/2102/210201.md)
 
 ### nodeJS
 1. [express: cookie和session](./FullStack/node/1807/180701.md)
