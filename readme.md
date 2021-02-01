@@ -136,6 +136,7 @@
 6. [Web安全之 CSRF 攻击](./FullStack/http/1904/190404.md)
 7. [Web安全之 xss 攻击](./FullStack/http/1904/190405.md)
 8. [Web安全之越权操作](./FullStack/http/1904/190406.md)
+9. [什么是同源策略即限制](./FullStack/http/2102/210201.md)
 
 ### electron
 1. [electron 打包全记录](./FullStack/electron/2002/200201.md)
