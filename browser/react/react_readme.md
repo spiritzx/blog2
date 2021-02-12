@@ -3,7 +3,7 @@
  * @Author: tom-z(spirit108@foxmail.com)
  * @Date: 2020-02-10 08:36:08
  * @LastEditors: tom-z(spirit108@foxmail.com)
- * @LastEditTime: 2021-02-11 14:15:45
+ * @LastEditTime: 2021-02-12 12:51:17
 --> 
 # react
 1. [jsx-基础语法](./1910/191001.md)
@@ -41,6 +41,7 @@
 33. [分环境开发和打包 react](./2012/201202.md)
 34. [react 触发 render 方法](./2102/210201.md)
 35. [react 的状态异步更新与同步更新](./2102/210202.md)
+36. [reactDom 渲染视图的三种模式](./2102/210203.md)
 
 ## react 面试
 1. [react面试: react-router里的 Link 标签 与 a 标签有什么区别](./2012/201203.md)
