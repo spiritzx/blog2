@@ -3,7 +3,7 @@
  * @Author: tom-z(spirit108@foxmail.com)
  * @Date: 2019-12-06 08:47:59
  * @LastEditors: tom-z(spirit108@foxmail.com)
- * @LastEditTime: 2021-01-19 14:27:35
+ * @LastEditTime: 2021-02-13 21:41:31
  -->
 # javascript
 ## js 基础
@@ -19,7 +19,7 @@
 10. [js基础: 相等运算符](./2012/201206.md)
 11. [减少 if..else 和 switch](./1901/190101.md)
 12. [自我总结的良好编码风格](./1902/02.md)
-13. [浅谈函数防抖与节流](./1902/01.md)
+13. [浅谈函数防抖与节流](./1902/190201.md)
 14. [js 中的 this](./1902/09.md)
 15. [call， apply](./1902/10.md)
 16. [闭包](./1903/190301.md)
