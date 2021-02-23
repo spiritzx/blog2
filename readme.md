@@ -139,6 +139,7 @@
 8. [Web安全之越权操作](./FullStack/http/1904/190406.md)
 9. [什么是同源策略即限制](./FullStack/http/2102/210201.md)
 10. [tcp/ip 五层网络分层模型](./FullStack/http/2102/210202.md)
+11. [websocket](./FullStack/http/2102/210203.md)
 
 ### electron
 1. [electron 打包全记录](./FullStack/electron/2002/200201.md)
