@@ -13,6 +13,7 @@
 8. [浏览器内核](./browser/html/2010/201001.md)
 9. [开发者工具的 timing](./browser/html/2010/201002.md)
 10. [前端标签语义化](./browser/html/2011/201101.md)
+11. [seo 需要注意的几点](./browser/html/2102/210201.md)
 
 
 
