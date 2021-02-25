@@ -15,6 +15,7 @@
 10. [前端标签语义化](./browser/html/2011/201101.md)
 11. [seo 需要注意的几点](./browser/html/2102/210201.md)
 12. [html5 有哪些新的特性](./browser/html/2102/210202.md)
+13. [cookie , localStorage 与 sessionStorage 的区别](./browser/html/2102/210203.md)
 
 ### 2,css
 1. [遮罩层镂空](./browser/css/1806/180601.md)
@@ -53,6 +54,7 @@
 4. [优化 ui 交互以及动画的流畅度01](./browser/optimization/1904/190404.md)
 5. [mv* 框架的首屏渲染](./browser/optimization/2101/210101.md)
 6. [当加载页面时的几个注意点](./browser/optimization/2101/210102.md)
+7. [网站性能优化](./browser/optimization/2102/210201.md)
 
 #### 8,SVG
 1. [SVG 初探](./browser/Svg/2001/200101.md)
