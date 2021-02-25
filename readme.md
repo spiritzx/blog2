@@ -14,6 +14,7 @@
 9. [开发者工具的 timing](./browser/html/2010/201002.md)
 10. [前端标签语义化](./browser/html/2011/201101.md)
 11. [seo 需要注意的几点](./browser/html/2102/210201.md)
+12. [html5 有哪些新的特性](./browser/html/2102/210202.md)
 
 ### 2,css
 1. [遮罩层镂空](./browser/css/1806/180601.md)
@@ -141,7 +142,7 @@
 11. [websocket](./FullStack/http/2102/210203.md)
 12. [tcp](./FullStack/http/2102/210204.md)
 12. [浏览器缓存](./FullStack/http/2102/210205.md)
-13. [html5 有哪些新的特性](./FullStack/http/2102/210206.md)
+
 
 ### electron
 1. [electron 打包全记录](./FullStack/electron/2002/200201.md)
