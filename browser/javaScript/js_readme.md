@@ -3,7 +3,7 @@
  * @Author: tom-z(spirit108@foxmail.com)
  * @Date: 2019-12-06 08:47:59
  * @LastEditors: tom-z(spirit108@foxmail.com)
- * @LastEditTime: 2021-02-27 15:47:58
+ * @LastEditTime: 2021-02-27 16:35:21
  -->
 # javascript
 ## js 基础
@@ -52,6 +52,7 @@
 43. [测试: macha 和 chai ](./2101/210103.md)
 44. [Ajax: Fetch 和 Xhr](./2101/210104.md)
 45. [原型链](./2102/210201.md)
+46. [作用域链](./2102/210202.md)
 
 ------
 
@@ -76,3 +77,4 @@
 18. [js面试题: 关于 this 与闭包](./2012/201217.md)
 19. [js面试题: 关于原型链](./2012/201218.md)
 20. [js面试题: 事件循环绑定](./2101/210101.md)
+21. [var,let和const 区别](./2102/210203.md)
