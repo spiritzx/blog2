@@ -3,7 +3,7 @@
  * @Author: tom-z(spirit108@foxmail.com)
  * @Date: 2019-12-06 08:47:59
  * @LastEditors: tom-z(spirit108@foxmail.com)
- * @LastEditTime: 2021-02-27 16:35:21
+ * @LastEditTime: 2021-03-01 22:49:54
  -->
 # javascript
 ## js 基础
@@ -53,6 +53,7 @@
 44. [Ajax: Fetch 和 Xhr](./2101/210104.md)
 45. [原型链](./2102/210201.md)
 46. [作用域链](./2102/210202.md)
+47. [js function 的四种定义方法](./2103/210301.md)
 
 ------
 
