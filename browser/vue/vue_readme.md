@@ -3,7 +3,7 @@
  * @Author: tom-z(spirit108@foxmail.com)
  * @Date: 2020-07-16 22:37:56
  * @LastEditors: tom-z(spirit108@foxmail.com)
- * @LastEditTime: 2021-03-03 21:23:09
+ * @LastEditTime: 2021-03-03 21:48:05
 --> 
 
 # vue 文件导航
@@ -56,3 +56,4 @@
 47. [vue 监测数组](./2103/210302.md)
 48. [nextTick 实现原理](./2103/210303.md)
 49. [vue 的 computed](./2103/210304.md)
+50. [vue3 生命周期变动](./2103/210305.md)
