@@ -3,7 +3,7 @@
  * @Author: tom-z(spirit108@foxmail.com)
  * @Date: 2020-07-16 22:37:56
  * @LastEditors: tom-z(spirit108@foxmail.com)
- * @LastEditTime: 2021-03-04 09:19:06
+ * @LastEditTime: 2021-03-04 15:35:23
 --> 
 
 # vue 文件导航
@@ -58,3 +58,4 @@
 49. [vue 的 computed](./2103/210304.md)
 50. [vue3 生命周期变动](./2103/210305.md)
 51. [vue 元素的 key 值](./2103/210306.md)
+52. [vue 事件系统与 react 事件系统](./2103/210307.md)
