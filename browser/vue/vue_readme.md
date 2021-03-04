@@ -3,7 +3,7 @@
  * @Author: tom-z(spirit108@foxmail.com)
  * @Date: 2020-07-16 22:37:56
  * @LastEditors: tom-z(spirit108@foxmail.com)
- * @LastEditTime: 2021-03-04 09:06:53
+ * @LastEditTime: 2021-03-04 09:19:06
 --> 
 
 # vue 文件导航
@@ -54,3 +54,7 @@
 45. [vue-cli@4 生成 app 缓慢](./2101/210101.md)
 46. [响应式数据的三个核心](./2103/210301.md)
 47. [vue 监测数组](./2103/210302.md)
+48. [nextTick 实现原理](./2103/210303.md)
+49. [vue 的 computed](./2103/210304.md)
+50. [vue3 生命周期变动](./2103/210305.md)
+51. [vue 元素的 key 值](./2103/210306.md)
