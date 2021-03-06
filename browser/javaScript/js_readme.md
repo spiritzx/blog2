@@ -3,7 +3,7 @@
  * @Author: tom-z(spirit108@foxmail.com)
  * @Date: 2019-12-06 08:47:59
  * @LastEditors: tom-z(spirit108@foxmail.com)
- * @LastEditTime: 2021-03-06 15:48:54
+ * @LastEditTime: 2021-03-06 16:13:33
  -->
 # javascript
 ## js 基础
@@ -58,6 +58,8 @@
 07. [Ajax: Fetch 和 Xhr](./2101/210104.md)
 08. [js基础: Number 类型的几个问题](./2011/201105.md)
 09. [strObj.replace 的高级用法](./1909/190903.md)
+10. [js 总结: es6 module 与 commonJs 的区别](./2103/210303.md)
+
 ------
 ## bug 处理
 01. [safari new Date](./2008/200801.md)
