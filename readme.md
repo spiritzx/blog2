@@ -164,6 +164,7 @@
 3. [小程序实现网页端cookie会话功能](./FullStack/miniprogram/1806/180603.md)
 4. [小程序 canvas 裁剪图形，开发者会有 bug](./FullStack/miniprogram/1902/190201.md)
 5. [小程序 webview 开发](./FullStack/miniprogram/1904/190401.md)
+6. [微信小程序工作原理](./FullStack/miniprogram/2103/210301.md)
 
 ### flutter
 1. [点击查看详情](./FullStack/flutter/flutter_readme.md)
