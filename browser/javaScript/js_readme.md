@@ -3,7 +3,7 @@
  * @Author: tom-z(spirit108@foxmail.com)
  * @Date: 2019-12-06 08:47:59
  * @LastEditors: tom-z(spirit108@foxmail.com)
- * @LastEditTime: 2021-03-06 16:13:33
+ * @LastEditTime: 2021-03-11 22:02:50
  -->
 # javascript
 ## js 基础
@@ -88,3 +88,4 @@
 19. [js面试题: 关于原型链](./2012/201218.md)
 20. [js面试题: 事件循环绑定](./2101/210101.md)
 21. [var,let和const 区别](./2102/210203.md)
+22. [于 async 的面试题](./2103/210304.md)
