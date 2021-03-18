@@ -3,7 +3,7 @@
  * @Author: tom-z(spirit108@foxmail.com)
  * @Date: 2019-12-06 08:47:59
  * @LastEditors: tom-z(spirit108@foxmail.com)
- * @LastEditTime: 2021-03-11 22:58:27
+ * @LastEditTime: 2021-03-18 23:07:17
  -->
 # javascript
 ## js 基础
@@ -45,6 +45,7 @@
 36. [js 严格模式](./2010/201003.md)
 37. [js基础: 执行栈（execution context stack）](./2012/201202.md)
 38. [js基础: 执行上下文（execution context）](./2012/201203.md)
+39. [js基础: source map](./2103/210306.md)
 
 ------
 
