@@ -148,6 +148,7 @@
 12. [tcp](./FullStack/http/2102/210204.md)
 12. [浏览器缓存](./FullStack/http/2102/210205.md)
 13. [http 的 keep-alive](./FullStack/http/2103/210301.md)
+14. [响应头的 content-type 的类型](./FullStack/http/2103/210302.md)
 
 
 ### electron
