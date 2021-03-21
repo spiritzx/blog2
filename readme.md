@@ -168,6 +168,7 @@
 4. [小程序 canvas 裁剪图形，开发者会有 bug](./FullStack/miniprogram/1902/190201.md)
 5. [小程序 webview 开发](./FullStack/miniprogram/1904/190401.md)
 6. [微信小程序工作原理](./FullStack/miniprogram/2103/210301.md)
+7. [小程序登录](./FullStack/miniprogram/2103/210302.md)
 
 ### flutter
 1. [点击查看详情](./FullStack/flutter/flutter_readme.md)
