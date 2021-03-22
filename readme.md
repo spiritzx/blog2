@@ -92,6 +92,7 @@
 6. [echarts 监听移动or缩放事件](./dataVisualization/echarts/2101/210101.md)
 7. [canvas 里面图形如何绑定事件](./dataVisualization/echarts/2103/210301.md)
 8. [canvas 与 svg 的区别](./dataVisualization/echarts/2103/210302.md)
+9. [canvas 的优化](./dataVisualization/echarts/2103/210303.md)
 
 ------
 
