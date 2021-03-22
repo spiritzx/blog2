@@ -90,6 +90,7 @@
 4. [echarts 渲染卡顿优化](./dataVisualization/echarts/2003/200301.md)
 5. [echarts 设置内边距](./dataVisualization/echarts/2003/200302.md)
 6. [echarts 监听移动or缩放事件](./dataVisualization/echarts/2101/210101.md)
+7. [canvas 里面图形如何绑定事件](./dataVisualization/echarts/2103/210301.md)
 
 ------
 
