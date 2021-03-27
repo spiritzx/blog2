@@ -194,8 +194,9 @@
 ------
 ## 四，编程知识
 ### 测试
-1. [node测试](./program/test/1807/01.md)
-2. [vue测试](./program/test/1807/02.md)
+1. [node测试](./program/test/1807/180701.md)
+2. [vue测试](./program/test/1807/180702.md)
+3. [ts 使用 mocha chai 进行测试](./program/test/2103/210301.md)
 
 ### 数据结构与算法
 1. [点击查看详情](./program/algorithm/algorithm_readme.md)
