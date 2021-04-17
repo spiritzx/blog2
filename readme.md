@@ -96,6 +96,7 @@
 
 ### threeJs
 1. [threeJS-1](./dataVisualization/three/2104/210401.md)
+2. [ vue-cli 中引入 three 中的 OrbitControls 控制器](./dataVisualization/three/2104/210402.md)
 
 ------
 
@@ -156,7 +157,6 @@
 13. [http 的 keep-alive](./FullStack/http/2103/210301.md)
 14. [响应头的 content-type 的类型](./FullStack/http/2103/210302.md)
 
-
 ### electron
 1. [electron 打包全记录](./FullStack/electron/2002/200201.md)
 2. [electron 打包 vue 程序发现页面空白](./FullStack/electron/2002/200202.md)
@@ -166,6 +166,7 @@
 6. [Electron 的进程](./FullStack/electron/2002/200206.md)
 7. [Electron 的进程之间的交流](./FullStack/electron/2002/200207.md)
 8. [electron 在 vue-cli 4 中配置打包选项](./FullStack/electron/2003/200301.md)
+9. [Electron 2.0.0](./FullStack/electron/2104/210401.md)
 
 ### 微信小程序
 1. [小程序原生组件z-index](./FullStack/miniprogram/1806/180601.md)
