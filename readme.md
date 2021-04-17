@@ -292,6 +292,7 @@
 ### 7. 文章翻译
 1. [vscode 版本1.44 说明文件翻译](./other/translation/200401.md)
 2. [vscode 版本1.45.1 说明文件翻译](./other/translation/200501.md)
+3. [VScode 1.55](./other/translation/210401.md)
 
 ### 8. 照片
 1. [RGB 与 CMY 颜色对应关系](./other/photo/2010/201001.md)
