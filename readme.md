@@ -167,6 +167,7 @@
 7. [Electron 的进程之间的交流](./FullStack/electron/2002/200207.md)
 8. [electron 在 vue-cli 4 中配置打包选项](./FullStack/electron/2003/200301.md)
 9. [Electron 2.0.0](./FullStack/electron/2104/210401.md)
+10. [vue-cli4 安装 electron](./FullStack/electron/2104/210402.md)
 
 ### 微信小程序
 1. [小程序原生组件z-index](./FullStack/miniprogram/1806/180601.md)
