@@ -126,7 +126,7 @@
 11. [日志组件:log4js使用](./FullStack/node/2101/210101.md)
 12. [nodeJS 事件循环](./FullStack/node/2103/210301.md)
 13. [源码解读的 use 和 next](./FullStack/node/2103/210302.md)
-14. [源码解读的 use 和 next](./FullStack/node/2104/210401.md)
+14. [nodeJS 利用 N-API 编写c++ node扩展](./FullStack/node/2104/210401.md)
 
 ### linux
 1. [linux 服务管理](./FullStack/linux/1807/01.md)
@@ -169,6 +169,7 @@
 8. [electron 在 vue-cli 4 中配置打包选项](./FullStack/electron/2003/200301.md)
 9. [Electron 2.0.0](./FullStack/electron/2104/210401.md)
 10. [vue-cli4 安装 electron](./FullStack/electron/2104/210402.md)
+11. [electron 不在支持 remote 的原因](./FullStack/electron/2104/210403.md)
 
 ### 微信小程序
 1. [小程序原生组件z-index](./FullStack/miniprogram/1806/180601.md)
