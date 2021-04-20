@@ -170,6 +170,7 @@
 9. [Electron 2.0.0](./FullStack/electron/2104/210401.md)
 10. [vue-cli4 安装 electron](./FullStack/electron/2104/210402.md)
 11. [electron 不在支持 remote 的原因](./FullStack/electron/2104/210403.md)
+11. [electron 的 remote ](./FullStack/electron/2104/210404.md)
 
 ### 微信小程序
 1. [小程序原生组件z-index](./FullStack/miniprogram/1806/180601.md)
