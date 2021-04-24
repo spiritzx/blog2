@@ -301,6 +301,8 @@
 ### 8. jenkins
 1. [jenkins 是什么](./other/jenkins/210401.md)
 2. [jenkins 在 windows 安装](./other/jenkins/210402.md)
+3. [windows 下 jenkins 离线安装插件](./other/jenkins/210403.md)
+4. [windows 下 jenkins 拉去远程 git 打包成压缩文件](./other/jenkins/210404.md)
 
 ### 9. 照片
 1. [RGB 与 CMY 颜色对应关系](./other/photo/2010/201001.md)
