@@ -3,7 +3,7 @@
  * @Author: tom-z(spirit108@foxmail.com)
  * @Date: 2020-07-16 22:37:56
  * @LastEditors: tom-z(spirit108@foxmail.com)
- * @LastEditTime: 2021-04-17 11:47:12
+ * @LastEditTime: 2021-04-26 21:25:45
 --> 
 
 # vue 文件导航
@@ -62,3 +62,4 @@
 53. [keep-alive 的总结](./2104/210401.md)
 54. [vue 开发微信自定义分享](./2104/210402.md)
 55. [从一个报错说 vue 响应式数据](./2104/210403.md)
+56. [vue 单页面在 ios 端微信自定义分享失效](./2104/210404.md)
