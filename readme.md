@@ -286,7 +286,8 @@
 4. [javaScript高级程序设计（第三版）笔记 - 04](./other/read/javaScriptGJCXSJ/190301.md)
 5. [javaScript高级程序设计（第三版）笔记 - 05](./other/read/javaScriptGJCXSJ/190302.md)
 6. [javaScript高级程序设计（第三版）笔记 - 06](./other/read/javaScriptGJCXSJ/190303.md)
-7. [《你不知道的JavaScript(上卷)》-1](./other/read/1811/01.md)
+7. [《你不知道的JavaScript(上卷)》-1](./other/read/1811/181101.md)
+8. [读《哲学家都干了什么》](./other/read/2105/210501.md)
 
 ### 6. 常用工具软件及网站
 1. [工作学习常用工具及网站](./other/tool/190401.md)
