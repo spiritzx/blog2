@@ -248,6 +248,10 @@
 3. [js 正则表达式的常用方法](./program/RegExp/2103/210303.md)
 4. [strObj.replace 的高级用法](./program/RegExp/2103/210304.md)
 
+## nsis
+1. [nsis 简介](./program/nsis/210801.md)
+2. [NSIS 基础](./program/nsis/210802.md)
+
 ------
 ## 五，其他
 ### 1. git
