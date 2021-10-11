@@ -300,6 +300,8 @@
 1. [工作学习常用工具及网站](./other/tool/190401.md)
 2. [vscode 常用插件](./other/tool/190601.md)
 3. [md 表格语法和生成目录](./other/tool/191201.md)
+4. [vscode 插件 —— todo-highlight](./other/tool/211001.md)
+5. [vscode 插件 —— px-to-vw](./other/tool/211002.md)
 
 ### 7. 文章翻译
 1. [vscode 版本1.44 说明文件翻译](./other/translation/200401.md)
