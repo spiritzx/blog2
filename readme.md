@@ -254,6 +254,9 @@
 1. [nsis 简介](./program/nsis/210801.md)
 2. [NSIS 基础](./program/nsis/210802.md)
 
+## c++
+1. [用 vscode 写 c++](./program/c++/2110/211001.md)
+
 ------
 ## 五，其他
 ### 1. git
