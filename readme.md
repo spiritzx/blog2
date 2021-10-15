@@ -128,6 +128,7 @@
 12. [nodeJS 事件循环](./FullStack/node/2103/210301.md)
 13. [源码解读的 use 和 next](./FullStack/node/2103/210302.md)
 14. [nodeJS 利用 N-API 编写c++ node扩展](./FullStack/node/2104/210401.md)
+15. [nodejs 配置文件权限](./FullStack/node/2110/211001.md)
 
 ### linux
 1. [linux 服务管理](./FullStack/linux/1807/01.md)
