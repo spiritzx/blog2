@@ -98,6 +98,7 @@
 ### threeJs
 1. [threeJS-1](./dataVisualization/three/2104/210401.md)
 2. [ vue-cli 中引入 three 中的 OrbitControls 控制器](./dataVisualization/three/2104/210402.md)
+2. [threeJS 渲染 3D 字体](./dataVisualization/three/2111/211101.md)
 
 ------
 
