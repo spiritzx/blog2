@@ -131,6 +131,7 @@
 14. [nodeJS 利用 N-API 编写c++ node扩展](./FullStack/node/2104/210401.md)
 15. [nodejs 配置文件权限](./FullStack/node/2110/211001.md)
 
+
 ### linux
 1. [linux 服务管理](./FullStack/linux/1807/01.md)
 2. [linux 进程管理管理](./FullStack/linux/1807/02.md)
@@ -175,6 +176,7 @@
 11. [electron 不在支持 remote 的原因](./FullStack/electron/2104/210403.md)
 11. [electron 的 remote ](./FullStack/electron/2104/210404.md)
 12. [windows 上 Electron 应用申请管理员权限 ](./FullStack/electron/2108/210801.md)
+13. [Electron 小技巧一](./FullStack/electron/2111/211101.md)
 
 ### 微信小程序
 1. [小程序原生组件z-index](./FullStack/miniprogram/1806/180601.md)
