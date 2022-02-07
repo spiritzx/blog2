@@ -321,11 +321,11 @@
 8. [读《哲学家都干了什么》](./other/read/2105/210501.md)
 
 ### 6. 常用工具软件及网站
-1. [工作学习常用工具及网站](./other/tool/190401.md)
-2. [vscode 常用插件](./other/tool/190601.md)
-3. [md 表格语法和生成目录](./other/tool/191201.md)
-4. [vscode 插件 —— todo-highlight](./other/tool/211001.md)
-5. [vscode 插件 —— px-to-vw](./other/tool/211002.md)
+1. [工作学习常用工具及网站](./other/tool/2112/190401.md)
+2. [vscode 常用插件](./other/tool/2112/190601.md)
+3. [md 表格语法和生成目录](./other/2112/tool/191201.md)
+4. [vscode 插件 —— todo-highlight](./other/2112/tool/211001.md)
+5. [vscode 插件 —— px-to-vw](./other/tool/2112/211002.md)
 
 ### 7. 文章翻译
 1. [vscode 版本1.44 说明文件翻译](./other/translation/200401.md)
@@ -346,3 +346,6 @@
 4. [影调](./other/photo/2010/201004.md)
 5. [摄影后期](./other/photo/2010/201005.md)
 6. [景深](./other/photo/2010/201006.md)
+
+### 10. 英语知识
+1. [where 引导的主语从句](./other/English/2201/220101.md)
