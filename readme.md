@@ -331,6 +331,7 @@
 1. [vscode 版本1.44 说明文件翻译](./other/translation/200401.md)
 2. [vscode 版本1.45.1 说明文件翻译](./other/translation/200501.md)
 3. [VScode 1.55](./other/translation/210401.md)
+4. [vscode 1.6.4 版本简略说明](./other/translation/220101.md)
 
 ### 8. jenkins
 1. [jenkins 是什么](./other/jenkins/210401.md)
