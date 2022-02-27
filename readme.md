@@ -306,6 +306,7 @@
 11. [webpack 五个核心概念以及其工作流程](./other/webpack/2102/210202.md)
 12. [webpack 优化措施](./other/webpack/2102/210203.md)
 12. [webpack.DefinePlugin](./other/webpack/2108/210801.md)
+13. [webpack 热更新](./other/webpack/2202/220201.md)
 
 ### 4. 思维
 1. [前端一点小想法](./other/thinking/1812/01.md)
